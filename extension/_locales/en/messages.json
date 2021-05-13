@@ -1,0 +1,14 @@
+{
+  "extName": {
+    "description": "Clipto.Pro",
+    "message": "Clipto.Pro"
+  },
+  "extDescription": {
+    "description": "This extension provides access to the Clipto.Pro online editor.",
+    "message": "Opera sidebar extension for Clipto.Pro."
+  },
+  "extPanelURL": {
+    "description": "Clipto.Pro Online URL",
+    "message": "https://clipto.pro/#/editor"
+  }
+}

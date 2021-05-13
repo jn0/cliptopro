@@ -1,0 +1,23 @@
+{
+  "default_locale": "en",
+  "description": "__MSG_extDescription__",
+  "icons": {
+		"128": "asset/favicon-128x128.png",
+		"96": "asset/favicon-96x96.png",
+		"32": "asset/favicon-32x32.png",
+		"16": "asset/favicon-16x16.png"
+  },
+  "manifest_version": 2,
+  "name": "__MSG_extName__",
+  "sidebar_action": {
+    "default_icon": {
+		"128": "asset/favicon-128x128.png",
+		"96": "asset/favicon-96x96.png",
+		"32": "asset/favicon-32x32.png",
+		"16": "asset/favicon-16x16.png"
+    },
+    "default_panel": "panel.html",
+    "default_title": "__MSG_extName__"
+  },
+  "version": "1.0.0"
+}
