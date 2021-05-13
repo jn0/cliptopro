@@ -13,5 +13,7 @@ And take a look at [opera-extension-sidebar-boilerplate](https://github.com/da2x
 1. Navigate to the `extension` subfolder in your clone of the repo
 1. Press "Open"
 
+![screen](screen.png)
+
 # EOF #
 <!-- vim:set ft=markdown ai et ts=4 sts=4 sw=4 cc=80: -->
